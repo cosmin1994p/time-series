@@ -36,7 +36,7 @@ df = df.interpolate()
 timegpt_fcst_df = nixtla_client.forecast(
     df=df, 
     h=24, 
-    finetune_steps=5, 
+    finetune_steps=5,    #incepusem cu 0 steps si avea o acuratete mult mai proasta
     time_col='date', 
     target_col='RO Load')
 
