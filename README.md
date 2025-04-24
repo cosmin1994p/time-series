@@ -9,8 +9,12 @@ So far, based on the image bellow we can  see the intermediary results. The anal
 
 <img width="685" alt="Screenshot 2025-02-20 at 11 51 33" src="https://github.com/user-attachments/assets/103a4909-2024-4ed3-bcab-42e5db4720f5" />
 
-
 The next models that will appear on the list are: 
 -TimesFM
 -Lag-llama
 -Titans model by google 
+
+<img width="1126" alt="Screenshot 2025-04-19 at 11 44 59" src="https://github.com/user-attachments/assets/bbb75d19-c94d-41e5-a5bd-c19ddbc078c9" />
+
+
+
